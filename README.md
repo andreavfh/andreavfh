@@ -8,11 +8,11 @@ I am Wolf , I am a junior software developer and a ethical hacker and, and well,
 
 # 🏰 I'm currently working on
 
-- My own Discord bot
+- A Minecraft Client written in... ?¿=Kotlin?
 - My own Forge Minecraft Java Mod.   
 - Comming Soon ...
 
-# 📚 Languages & Technologies i use
+#### 📚 Languages & Technologies i use
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7Dlive)
@@ -38,7 +38,7 @@ I am Wolf , I am a junior software developer and a ethical hacker and, and well,
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
 
-# 📕 Im Learning
+#### 📕 Im Learning
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
