@@ -45,10 +45,10 @@ I am Wolf , I am a software developer and I am currently dead, I love developing
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 
 # ☕ My Github Stats
-![Wolfdev1's Github Stats](https://github-readme-stats.vercel.app/api?username=wolfdev1&count_private=true&show_icons=true&theme=dracula)
+![Wolfdev1's Github Stats](https://github-readme-stats.vercel.app/api?username=wolfdev1&count_private=true&show_icons=true&theme=radical)
 
 # My top languages (Java 😳)
-![Top LangS](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfdev1&layout=compact&theme=dracula)
+![Top LangS](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfdev1&layout=compact&theme=radical)
 # 👀 How can you contact me?
 **Twitter DM:** [WolfDev](https://twitter.com/wolfdevmc)
 
