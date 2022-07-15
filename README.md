@@ -1,6 +1,6 @@
 # 🌹 About Me
 
-I am Wolf , I am a software developer and I am currently dead, I love developing to help and solve problems that others cannot solve
+I am Wolf , I am a junior software developer and a ethical hacker and, and well, I'm dead on github, I love developing to help and solve problems that others cannot solve, as long as it is not frontend (Learning)
 
 ☕ Principally Backend developer
 
@@ -49,7 +49,7 @@ I am Wolf , I am a software developer and I am currently dead, I love developing
 
 # My top languages (Java 😳)
 ![Top LangS](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfdev1&layout=compact&theme=radical)
-# 👀 How can you contact me?
+# 👀 How to reach me?
 **Twitter DM:** [WolfDev](https://twitter.com/wolfdevmc)
 
 **Mail:** wolfdev1@outlook.com 
