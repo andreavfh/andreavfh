@@ -48,7 +48,7 @@ I am Wolf , I am a software developer and I am currently dead, I love developing
 ![Wolfdev1's Github Stats](https://github-readme-stats.vercel.app/api?username=wolfdev1&count_private=true&show_icons=true&theme=gruvbox)
 
 # My top languages (Java 😳)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfdev1&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfdev1&layout=compact&theme=dracula)
 # 👀 How can you contact me?
 **Twitter DM:** [WolfDev](https://twitter.com/wolfdevmc)
 
