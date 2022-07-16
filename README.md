@@ -9,8 +9,9 @@ I am Wolf , I am a junior software developer and a ethical hacker and, and well,
 # 🏰 I'm currently working on
 
 - A Minecraft Client written in... ?¿=Kotlin?
-- My own Forge Minecraft Java Mod.   
-- Comming Soon ...
+- My own Forge Minecraft Java Mod. 
+- My own Discord bot written in Rust
+- Comming Soon...
 
 #### 📚 Languages & Technologies i use
 
@@ -18,7 +19,7 @@ I am Wolf , I am a junior software developer and a ethical hacker and, and well,
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7Dlive)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -57,6 +58,5 @@ I am Wolf , I am a junior software developer and a ethical hacker and, and well,
 **Discord:** WOLF#7902
 
 
-WolfDev Github Profile 2021-2022
 
 
