@@ -1,8 +1,14 @@
 
-#### ☕ wolfdev1
+<h1 align="center">
+
+  ☕ wolfdev1
+
+</h1> 
 
 
+<p align="center">
 I am Wolf , I am a junior software developer and a ethical hacker and, and well, I'm dead on github, I love developing to help and solve problems that others cannot solve, as long as it is not frontend (Learning)
+
 
 - ☕ Pronouns: Ask me
 
@@ -15,7 +21,11 @@ I am Wolf , I am a junior software developer and a ethical hacker and, and well,
 
 # ☕ Languages & Technologies i use
 
-
+ </p> 
+  
+<p align="center">
+  
+  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7Dlive)
 
@@ -51,8 +61,11 @@ I am Wolf , I am a junior software developer and a ethical hacker and, and well,
 
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) 
 
+  
+</p>  
+  
 #### ☕ Im Learning
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -63,13 +76,15 @@ I am Wolf , I am a junior software developer and a ethical hacker and, and well,
 ![Wolfdev1's Github Stats](https://github-readme-stats.vercel.app/api?username=wolfdev1&count_private=true&show_icons=true&theme=radical)
 
 # My top GitHub languages 
-![Top LangS](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfdev1&layout=compact&theme=radical)
+
 # 👀 How to reach me?
+
 **Twitter DM:** [WolfDev](https://twitter.com/wolfdevmc)
 
 **Mail:** wolfdev1@outlook.com 
 
 **Discord:** WOLF#7902
+
 
 
 
