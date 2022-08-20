@@ -7,7 +7,7 @@
 
 
 <p align="center">
-I am Wolf , I am a junior software developer and a ethical hacker and, and well, I'm dead on github, I love developing to help and solve problems that others cannot solve, as long as it is not frontend (Learning)
+I am Wolf , I am a Semi-senior software developer and a ethical hacker and, and well, I'm dead on github, I love developing to help and solve problems that others cannot solve, as long as it is not frontend (Learning)
 
 
 - ☕ Pronouns: Ask me
