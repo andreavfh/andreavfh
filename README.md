@@ -77,6 +77,8 @@ I am Wolf , I am a Semi-senior software developer and a ethical hacker and, and 
 
 # My top GitHub languages 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfdev1&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 # 👀 How to reach me?
 
 **Twitter DM:** [WolfDev](https://twitter.com/wolfdevmc)
