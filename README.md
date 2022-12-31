@@ -1,93 +1,61 @@
 
-<h1 align="center">
+<h2 align="center">
+Hi, I'm wolfdev1 👋
 
-  ☕ wolfdev1
-
-</h1> 
+</h2> 
 
 
 <p align="center">
-I am Wolf , I am a Semi-senior software developer and a ethical hacker and, and well, I'm dead on github, I love developing to help and solve problems that others cannot solve, as long as it is not frontend (Learning)
-
-
-- ☕ Pronouns: Ask me
-
-# ✒️ I'm currently working on
-
-- A Minecraft Client written in... ?¿=Kotlin?
-- My own Forge Minecraft Java Mod. 
-- My own Discord bot written in Rust
-- Comming Soon...
-
-# ☕ Languages & Technologies i use
+I am a Software Engineer with 5 years of experience in the Software development sector and 3 in the DevOps area, totally focused on open-source projects and mainly the backend. I specialize in performance and distributed resource management.
 
  </p> 
   
+```rs
+use wolfdev1::studies;
+use wolfdev::github;
+use wolfdev::contact;
+
+fn main() {
+    let studies = studies::new();
+    let github = github::new();
+    let contact = contact::new();
+
+    println!("Studies: {}", studies);
+    // Studies: Superior in Software Enginnering
+    println!("Github: {}", github);
+    // Github: https://www.github.com/wolfdev1
+    println!("Contact: {}", contact);
+    // Contact: https://www.linkedin.com/in/wolfdev1
+}
+```
+
+<h2 align="center">
+Skills 🛠
+</h2> 
+
 <p align="center">
-  
-  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7Dlive)
+<img src="https://skillicons.dev/icons?i=java,rust,python,js,ts,gradle">
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=maven,kotlin,discord,bots,express,mongodb">
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nestjs,git,aws,azure,mysql,redis">
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,docker,nodejs,github,gcp,idea">
+</p>
+<p align="center">
+<img width="330" src="https://i.imgur.com/W59Cm1Z.png">
+</p>
 
+<h2 align="center">
+Stats ☕
+</h2>
 
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
-![Discord](https://img.shields.io/badge/Discord_API-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
-
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) 
-
-  
-</p>  
-  
-#### ☕ Im Learning
-
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
-
-# ☕ My Github Stats
-![Wolfdev1's Github Stats](https://github-readme-stats.vercel.app/api?username=wolfdev1&count_private=true&show_icons=true&theme=radical)
-
-# My top GitHub languages 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfdev1&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-# 👀 How to reach me?
-
-**Twitter DM:** [WolfDev](https://twitter.com/wolfdevmc)
-
-**Mail:** wolfdev1@outlook.com 
-
-**Discord:** WOLF#7902
-
-
-
-
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfdev1&langs_count=4&layout=compact&theme=dracula&custom_title=@wolfdev1">
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=wolfdev1&count_private=true&show_icons=false&include_all_commits=true&custom_title=@wolfdev1&hide_rank=true&hide_border=false">
+</p>
