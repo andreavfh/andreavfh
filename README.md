@@ -6,7 +6,7 @@ Hi, I'm wolfdev1 👋
 
 
 <p align="center">
-I am a Software Engineer with 5 years of experience in the Software development sector and 3 in the DevOps area, totally focused on open-source projects and mainly the backend. I specialize in performance and distributed resource management.
+I am a Software Engineer with 7 years of experience in the Software development sector and 5 in the DevOps area, totally focused on open-source projects and mainly the backend. I specialize in performance and distributed resource management.
 
  </p> 
   
