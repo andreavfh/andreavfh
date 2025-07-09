@@ -1,14 +1,18 @@
 
 <h2 align="center">
-Hi, I'm wolfdev1 👋
+Hi, my name is Fer 👋
 
 </h2> 
 
 
 <p align="center">
-I am a Software Engineer with 7 years of experience in the Software development sector and 5 in the DevOps area, totally focused on open-source projects and mainly the backend. I specialize in performance and distributed resource management.
+I am a Software Architect and Gameplay Systems Engineer with 7 years of experience in software development and 5 years in DevOps, specializing in backend architecture, performance optimization, and distributed resource management. My work is deeply rooted in open-source technologies and scalable system design.
 
  </p> 
+
+ <p align="center">
+  I develop and implement advanced digital solutions for interactive platforms, including automated systems such as chatbots and custom integrations with third-party APIs. My expertise bridges the gap between software architecture and gameplay infrastructure, ensuring robust, maintainable, and high-performance solutions tailored to complex environments.
+ </p>
   
 ```rs
 use wolfdev1::studies;
@@ -57,5 +61,5 @@ Stats ☕
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreavfh&langs_count=4&layout=compact&theme=dracula&custom_title=@andreavfh">
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=andreavfh&count_private=true&show_icons=false&include_all_commits=true&custom_title=@wolfdev1&hide_rank=true&hide_border=false">
+<img src="https://github-readme-stats.vercel.app/api?username=andreavfh&count_private=true&show_icons=false&include_all_commits=true&custom_title=@andreavfh&hide_rank=true&hide_border=false">
 </p>
