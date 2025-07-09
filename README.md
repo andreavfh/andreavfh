@@ -1,12 +1,12 @@
 
 <h2 align="center">
-Hi, my name is Fer 👋
+Developer. Thinker. Doer. 🎨
 
 </h2> 
 
 
 <p align="center">
-I am a Software Architect and Gameplay Systems Engineer with 7 years of experience in software development and 5 years in DevOps, specializing in backend architecture, performance optimization, and distributed resource management. My work is deeply rooted in open-source technologies and scalable system design.
+I am a Software Architect and Developer with 8 years of experience developing code solutions & and 5 years in DevOps, specializing in backend architecture, performance optimization, and distributed resource management. My work is deeply rooted in open-source technologies and scalable system design.
 
  </p> 
 
@@ -14,25 +14,6 @@ I am a Software Architect and Gameplay Systems Engineer with 7 years of experien
   I develop and implement advanced digital solutions for interactive platforms, including automated systems such as chatbots and custom integrations with third-party APIs. My expertise bridges the gap between software architecture and gameplay infrastructure, ensuring robust, maintainable, and high-performance solutions tailored to complex environments.
  </p>
   
-```rs
-use wolfdev1::studies;
-use wolfdev::github;
-use wolfdev::contact;
-
-fn main() {
-    let studies = studies::new();
-    let github = github::new();
-    let contact = contact::new();
-
-    println!("Studies: {}", studies);
-    // Studies: Superior in Software Enginnering
-    println!("Github: {}", github);
-    // Github: https://www.github.com/wolfdev1
-    println!("Contact: {}", contact);
-    // Contact: https://www.linkedin.com/in/wolfdev1
-}
-```
-
 <h2 align="center">
 Skills 🛠
 </h2> 
